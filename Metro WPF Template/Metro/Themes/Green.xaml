@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <SolidColorBrush x:Key="ApplicationAccentBrush" x:Name="ApplicationAccentBrush" Color="#77bb44"/>
+    <SolidColorBrush x:Key="ApplicationAccentBrushSecondary" x:Name="ApplicationAccentBrushSecondary" Color="#98e062"/>
+
+    <Color x:Key="ApplicationAccentBrushColour" A="#FF" R="#77" G="#bb" B="#44" />
+    <Color x:Key="ApplicationAccentBrushColourSecondary" A="#FF" R="#98" G="#e0" B="#62" />
+
+</ResourceDictionary>
