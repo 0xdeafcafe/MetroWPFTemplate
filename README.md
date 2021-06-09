@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/0xdeafcafe/MetroWPFTemplate)
+
 # Metro WPF Template #
 ## Quickly and Easily create Metro WPF Applications with this template. ##
 
